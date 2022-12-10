@@ -1,5 +1,4 @@
 # EnigmaIoT
-haha
 <img src="https://github.com/gmag11/EnigmaIOT/raw/master/logo/logo%20text%20under.svg?sanitize=true" alt="EnigmaIoT Logo" width="50%"/>
 
 [![ESP8266](https://github.com/gmag11/EnigmaIOT/workflows/ESP8266/badge.svg)](https://github.com/gmag11/EnigmaIOT/actions?query=workflow%3AESP8266)
